@@ -72,6 +72,7 @@ Example 1:
 ![Shapvalue](https://github.com/Nthabyy/Regression-Model-/blob/main/Premium%20charges%20prediction%20using%20Linear%20Regression/Shapvalue.png)
 
 Example 2:
+![shapvalue1](https://github.com/Nthabyy/Regression-Model-/blob/main/Premium%20charges%20prediction%20using%20Linear%20Regression/shapvalue1.png)
 
 ---
 
