@@ -67,8 +67,11 @@ Example:
 
 SHAP (SHapley Additive exPlanations) values were used to interpret the model's predictions and identify the most important features contributing to premium predictions. SHAP provides a way to explain individual predictions and visualize feature importance.
 
-Example:  
-![Shapvalue](https://github.com/Nthabyy/Premium-Prediction-Model/blob/main/Visualizations/Shapvalue.png)
+Example 1:  
+
+![Shapvalue](https://github.com/Nthabyy/Regression-Model-/blob/main/Premium%20charges%20prediction%20using%20Linear%20Regression/Shapvalue.png)
+
+Example 2:
 
 ---
 
