@@ -23,7 +23,7 @@ The dataset includes:
 - **BMI**: Body Mass Index of the policyholder.
 - **Children**: Number of children/dependents covered by the policy.
 - **Smoker**: Whether the policyholder is a smoker (Yes/No).
-- **Charges**: Medical charges incurred by the policyholder.
+- **Charges**: Charges incurred by the policyholder.
 
 ---
 
@@ -43,12 +43,6 @@ Visualization highlights include:
 - **Premium Charges by Gender**: Line graph showing premium variations by age.
 - **Premium Charges by Chilred**: Line graph showing premium variations by age.
 -  **Premium Charges by BMI**: Line graph showing premium variations by age.
-
-
-
-
-Example:  
-![Premium Trends](https://github.com/Nthabyy/Premium-Prediction-Model/blob/main/Visualizations/TrendAnalysis.png)
 
 ---
 
