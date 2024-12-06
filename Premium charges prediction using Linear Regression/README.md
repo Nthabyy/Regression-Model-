@@ -11,7 +11,7 @@ The **Premium Prediction Model** is a machine learning project designed to analy
 Predicting insurance premiums is influenced by multiple factors such as age, income, and claim history. This project aims to:
 - Deliver accurate premium predictions.
 - Identify key variables affecting premiums.
-- Visualize results to support business decisions.
+- Visualize results.
 
 ---
 
